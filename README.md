@@ -237,7 +237,7 @@ tweet_id,text,sentiment,timestamp,user_id
 | Recall | 0.890 | 0.875 | 0.881 |
 | F1-Score | 0.887 | 0.873 | 0.880 |
 
-![federated_learning_results](https://github.com/user-attachments/assets/e4c45617-803d-4de8-b453-0c575098de99)
+![federated_learning_results](https://github.com/user-attachments/assets/70c55da8-ba09-446f-ad81-6a707198bba3)
 
 
 ### Privacy Analysis
